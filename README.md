@@ -1,6 +1,6 @@
 # GSoC 2025 - Heuristic freezing behavior detection module for NIU movement project
 
-This repository contains a heuristic-based freezing behavior detection module, contributed as part of Google Summer of Code 2025 for the [NIU movement project](https://github.com/niugnep/movement).
+This repository contains a heuristic-based freezing behavior detection module, contributed as part of Google Summer of Code 2025 for the [NIU movement project].
 
 ## 📌 Overview
 
